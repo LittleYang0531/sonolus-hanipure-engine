@@ -1,5 +1,22 @@
 # Sonolus Hanipure Engine
 
+Hello everyone. 
+
+I have made the decision to shutdown the Honeyworks Premium Live server with sadness. Here are the specific reasons:
+
+1. Hanipure engine is just my first attempt to the development of Sonolus engine. As you can see, the engine still have watch mode, preview mode and other features that haven't been completed yet.
+2. The official game has been closed for almost one year, and the relative resource website was closed a long time ago due to the violence of the official's rights. I don't have a way to gain audio files and chart files.
+3. With the release of Sonolus 0.8.0, the structure of binary chart file was changed. Also, as I'm preparing for the upcoming college entrance examination, I don't have time to change chart files one by one.
+4. In my point of view, if I shudown the Hanipure server, I'll have more energy to continue to maintain the World Dai Star server and complete the feature development of Phigros engine.
+
+In summary, starting from Sonolus 0.8.0, I decide to stop maintaining the Hanipure server. I deeply apologize for those users who have high expectations for the Hanipure server.
+
+By the way, I currently have no plans to stop maintaining the World Dai Star server.
+
+I sincerely hope that you guys can understand my decision.😭
+
+# Sonolus Hanipure Engine
+
 A recreation of Honeyworks Premium Live engine in [Sonolus](https://sonolus.com). For Sonolus 0.7.x.
 
 适用于 Sonolus 0.7.2+ 的 Honeyworks Premium Live 引擎。
